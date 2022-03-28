@@ -15,3 +15,7 @@ https://data.worldbank.org/indicator/SP.POP.TOTL?view=chart
 GDP(in US$):
 
 https://data.worldbank.org/indicator/SP.POP.TOTL?view=chart
+
+
+Link to the Kaggle Notebook
+https://www.kaggle.com/code/johnymariah/etl-extract-transform-load-on-world-bank-data
